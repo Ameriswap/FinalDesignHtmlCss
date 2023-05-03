@@ -55,7 +55,18 @@
     }
     .swap-box1
     {
-        height: 450px;
+        height: auto;
+    }
+    .swap-box1 .swap {
+        width: 50px;
+        position: absolute;
+        top: 0 !important;
+        left: 27px;
+    }
+    .swap-box1 .swap-container {
+        position: relative;
+        margin: 0 auto;
+        width: 101px;
     }
     .bg-amweriswap-content4
     {
