@@ -205,6 +205,17 @@
     height: 157px;
 }
 
+.swap-box1 .first-row .col-md-5 {
+    position: relative;
+}
+
+.btn-sell-buy button {
+    position: relative;
+    bottom: 44px;
+    float: right;
+    right: 8px;
+}
+
 .content2-2nd {
     width: 650px;
     text-align: center;
